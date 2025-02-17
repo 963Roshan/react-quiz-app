@@ -1,112 +1,112 @@
 [
     {
         "id": "01",
-        "question" : "Which of the following is the correct name of React.js?",
+        "question": "What is the SI unit of capacitance?",
         "options": [
-            "React",
-            "React.js",
-            "ReactJS",
-            "All of the above"
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Coulomb"
         ],
-        "answer": "All of the above"
+        "answer": "Farad"
     },
     {
         "id": "02",
-        "question" : "Which of the following are the advantages of React.js?",
+        "question": "Which of the following is a semiconductor material?",
         "options": [
-            "React.js can increase the application's performance with Virtual DOM.",
-            "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library.",
-            "React.js can render both on client and server side.",
+            "Copper",
+            "Silicon",
+            "Glass",
+            "Rubber"
+        ],
+        "answer": "Silicon"
+    },
+    {
+        "id": "03",
+        "question": "Which law states that the total current entering a junction is equal to the total current leaving the junction?",
+        "options": [
+            "Ohm’s Law",
+            "Kirchhoff's Voltage Law",
+            "Kirchhoff's Current Law",
+            "Faraday's Law"
+        ],
+        "answer": "Kirchhoff's Current Law"
+    },
+    {
+        "id": "04",
+        "question": "What is the primary function of a diode?",
+        "options": [
+            "Amplification",
+            "Rectification",
+            "Oscillation",
+            "Attenuation"
+        ],
+        "answer": "Rectification"
+    },
+    {
+        "id": "05",
+        "question": "Which of the following is a type of filter circuit?",
+        "options": [
+            "Low-pass filter",
+            "High-pass filter",
+            "Band-pass filter",
             "All of the above"
         ],
         "answer": "All of the above"
     },
     {
-        "id": "03",
-        "question" : "Which of the following is not a disadvantage of React.js?",
-        "options": [
-            "React.js has only a view layer. We have put your code for Ajax requests, events and so on.",
-            "The library of React.js is pretty large.",
-            "The JSX in React.js makes code easy to read and write.",
-            "The learning curve can be steep in React.js."
-        ],
-        "answer": "The JSX in React.js makes code easy to read and write."
-    },
-    {
-        "id": "04",
-        "question" : "Which of the following command is used to install create-react-app?",
-        "options": [
-            "npm install -g create-react-app",
-            "npx create-react-app my-app",
-            "npm install create-react-app",
-            "npm install -f create-react-app"
-        ],
-        "answer": "npx create-react-app my-app"
-    },
-    {
-        "id": "05",
-        "question" : "What of the following is used in React.js to increase performance?",
-        "options": [
-            "Original DOM",
-            "Virtual DOM",
-            "Both A and B.",
-            "None of the above."
-        ],
-        "answer": "Virtual DOM"
-    },
-    {
         "id": "06",
-        "question" : "What is the default port where webpack-server runs?",
+        "question": "What is the main purpose of a transistor?",
         "options": [
-            "3000",
-            "8080",
-            "3030",
-            "6060"
+            "To store charge",
+            "To act as a switch or amplifier",
+            "To measure voltage",
+            "To generate signals"
         ],
-        "answer": "3000"
+        "answer": "To act as a switch or amplifier"
     },
     {
         "id": "07",
-        "question" : "How many numbers of elements a valid react component can return?",
+        "question": "What does an operational amplifier (Op-Amp) primarily do?",
         "options": [
-            "1",
-            "2",
-            "3",
-            "Unlimited"
+            "Converts AC to DC",
+            "Amplifies voltage",
+            "Filters signals",
+            "Measures resistance"
         ],
-        "answer": "1"
+        "answer": "Amplifies voltage"
     },
     {
         "id": "08",
-        "question" : "What is the declarative way to render a dynamic list of components based on values in an array?",
+        "question": "Which modulation technique is commonly used in AM radio broadcasting?",
         "options": [
-            "Using the reduce array method",
-            "Using the <Each /> component",
-            "Using the Array.map() method",
-            "With a for/while loop"
+            "Frequency Modulation (FM)",
+            "Amplitude Modulation (AM)",
+            "Phase Modulation (PM)",
+            "Pulse Code Modulation (PCM)"
         ],
-        "answer": "Using the Array.map() method"
+        "answer": "Amplitude Modulation (AM)"
     },
     {
         "id": "09",
-        "question" : "What is a state in React?",
+        "question": "What does an antenna do in a communication system?",
         "options": [
-            "A permanent storage.",
-            "Internal storage of the component.",
-            "External storage of the component.",
-            "None of the above."
+            "Stores electrical energy",
+            "Amplifies signals",
+            "Transmits and receives electromagnetic waves",
+            "Filters unwanted signals"
         ],
-        "answer": "Internal storage of the component."
+        "answer": "Transmits and receives electromagnetic waves"
     },
     {
         "id": "10",
-        "question" : "What are the two ways to handle data in React?",
+        "question": "Which of the following is an advantage of digital communication over analog communication?",
         "options": [
-            "State & Props",
-            "Services & Components",
-            "State & Services",
-            "State & Component"
+            "More noise interference",
+            "Higher error rate",
+            "Better noise immunity",
+            "Lower efficiency"
         ],
-        "answer": "State & Props"
+        "answer": "Better noise immunity"
     }
 ]
