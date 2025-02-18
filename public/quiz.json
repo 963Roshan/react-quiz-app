@@ -53,60 +53,6 @@
             "All of the above"
         ],
         "answer": "All of the above"
-    },
-    {
-        "id": "06",
-        "question": "What is the main purpose of a transistor?",
-        "options": [
-            "To store charge",
-            "To act as a switch or amplifier",
-            "To measure voltage",
-            "To generate signals"
-        ],
-        "answer": "To act as a switch or amplifier"
-    },
-    {
-        "id": "07",
-        "question": "What does an operational amplifier (Op-Amp) primarily do?",
-        "options": [
-            "Converts AC to DC",
-            "Amplifies voltage",
-            "Filters signals",
-            "Measures resistance"
-        ],
-        "answer": "Amplifies voltage"
-    },
-    {
-        "id": "08",
-        "question": "Which modulation technique is commonly used in AM radio broadcasting?",
-        "options": [
-            "Frequency Modulation (FM)",
-            "Amplitude Modulation (AM)",
-            "Phase Modulation (PM)",
-            "Pulse Code Modulation (PCM)"
-        ],
-        "answer": "Amplitude Modulation (AM)"
-    },
-    {
-        "id": "09",
-        "question": "What does an antenna do in a communication system?",
-        "options": [
-            "Stores electrical energy",
-            "Amplifies signals",
-            "Transmits and receives electromagnetic waves",
-            "Filters unwanted signals"
-        ],
-        "answer": "Transmits and receives electromagnetic waves"
-    },
-    {
-        "id": "10",
-        "question": "Which of the following is an advantage of digital communication over analog communication?",
-        "options": [
-            "More noise interference",
-            "Higher error rate",
-            "Better noise immunity",
-            "Lower efficiency"
-        ],
-        "answer": "Better noise immunity"
     }
+    
 ]
